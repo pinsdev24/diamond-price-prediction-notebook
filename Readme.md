@@ -1,4 +1,3 @@
-```markdown
 # Diamond Price Prediction Notebook
 
 A Jupyter Notebook demonstrating an end-to-end workflow to predict diamond prices using the classic "diamonds" dataset.
@@ -50,4 +49,3 @@ The notebook walks through:
 ## License & contact
 - License: MIT (adjust if needed)
 - Author: pinsdev24 — open an issue or PR for questions, suggestions, or improvements.
-```
